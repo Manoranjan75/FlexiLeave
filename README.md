@@ -1,5 +1,10 @@
 #  Flexi Leave - ServiceNow Scoped Application
 
+<p align="center">
+  <img src="./Project-Image/FL-record.png" alt="FL-record" width="700px" />
+</p>
+
+
 Flexi Leave is a **ServiceNow-based scoped application** designed to simplify and automate the employee leave request process.  
 It dynamically populates fields, validates data, and automates approvals, providing a smooth and efficient leave management experience.  
 
