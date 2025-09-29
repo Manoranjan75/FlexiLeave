@@ -1,8 +1,10 @@
-#  Flexi Leave - ServiceNow Scoped Application
+# <img src="./Project-Image/FlexiLeave.png" alt="FlexiLeave Icon" width="50" height="50"/> Flexi Leave - ServiceNow Scoped Application
+
 
 <p align="center">
   <img src="./Project-Image/FL-record.png" alt="FL-record" width="700px" />
 </p>
+
 
 
 Flexi Leave is a **ServiceNow-based scoped application** designed to simplify and automate the employee leave request process.  
