@@ -10,6 +10,11 @@
 Flexi Leave is a **ServiceNow-based scoped application** designed to simplify and automate the employee leave request process.  
 It dynamically populates fields, validates data, and automates approvals, providing a smooth and efficient leave management experience.  
 
+
+## Click here for Demo: [Live Demo](https://dev304924.service-now.com/now/appenginestudio/home)
+- User name: admin
+- instance password: tn-Y2VuzVO0/
+
 ---
 
 ##  Features
